@@ -1,0 +1,33 @@
+p {
+  font-family: Arial;
+}
+h1{
+	color:teal
+}
+.title{
+	color:teal;
+}
+body 
+{
+	 background-image:url("blue");
+}
+#article-title{
+font-family: cursive;
+  text-transform: capitalize;
+}
+h1,li{
+	text-align:center;
+}
+
+}
+.image{
+	background-image:
+	url("blue");
+	background-size:100%;
+	
+}
+.topnav{
+	text-align: center;
+}
+ 
+ 
