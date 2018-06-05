@@ -7,10 +7,6 @@ h1{
 .title{
 	color:teal;
 }
-body 
-{
-	 background-image:url("blue");
-}
 #article-title{
 font-family: cursive;
   text-transform: capitalize;
@@ -18,16 +14,3 @@ font-family: cursive;
 h1,li{
 	text-align:center;
 }
-
-}
-.image{
-	background-image:
-	url("blue");
-	background-size:100%;
-	
-}
-.topnav{
-	text-align: center;
-}
- 
- 
